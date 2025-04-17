@@ -45,6 +45,3 @@ A Python-based tool for scraping public LinkedIn profiles to extract useful info
 
 This tool is intended for educational and research purposes only. Scraping LinkedIn data may violate their terms of service. Use responsibly.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
