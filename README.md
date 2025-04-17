@@ -21,7 +21,7 @@ A Python-based tool for scraping public LinkedIn profiles to extract useful info
 
 1. Clone the repository:
      ```bash
-     git clone https://github.com/yourusername/LinkedIn-Scraper.git
+     git clone https://github.com/GergesBernaba1/LinkedIn-Scraper.git
      cd LinkedIn-Scraper
      ```
 
